@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1552404802 source:c:\users\student\documents\dedyk micha³\matrix_thmas\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<chrono>
+	<Windows.h>
+	<ctime>
+

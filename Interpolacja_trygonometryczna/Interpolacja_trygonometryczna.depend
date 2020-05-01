@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554819253 source:c:\users\student\documents\interpolacja_trygonometryczna\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+

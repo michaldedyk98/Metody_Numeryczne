@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1551192726 source:c:\users\student\documents\dedyk micha³\wyznacznik_macierzy\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+

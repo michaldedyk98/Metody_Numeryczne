@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1553611915 source:c:\users\student\documents\dedyk micha³\interpolacja_wielomianowa\main.cpp
+	<iostream>
+	<fstream>
+	<chrono>
+	<iomanip>
+	<cmath>
+
