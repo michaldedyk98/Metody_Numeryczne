@@ -1,0 +1,5 @@
+﻿  Sprawozdanie_Calki.cpp
+c:\users\i5\documents\visual studio 2015\projects\sprawozdanie_calki\sprawozdanie_calki\sprawozdanie_calki.cpp(26): warning C4018: '<=': signed/unsigned mismatch
+c:\users\i5\documents\visual studio 2015\projects\sprawozdanie_calki\sprawozdanie_calki\sprawozdanie_calki.cpp(39): warning C4018: '<': signed/unsigned mismatch
+  Sprawozdanie_Calki.vcxproj -> c:\users\i5\documents\visual studio 2015\Projects\Sprawozdanie_Calki\Debug\Sprawozdanie_Calki.exe
+  Sprawozdanie_Calki.vcxproj -> c:\users\i5\documents\visual studio 2015\Projects\Sprawozdanie_Calki\Debug\Sprawozdanie_Calki.pdb (Full PDB)
